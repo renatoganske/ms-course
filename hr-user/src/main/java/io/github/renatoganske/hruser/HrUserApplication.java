@@ -20,7 +20,7 @@ public class HrUserApplication implements CommandLineRunner{
 
 	@Override
 	public void run(String... args) throws Exception {
-//		método para fazer o hash da senha do usuário seed
+//		método para fazer o hash da senha do usuário seed  
 //		System.out.println("BCRYPT = " + passwordEncoder.encode("123456"));
 	}
 
